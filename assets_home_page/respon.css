@@ -1,0 +1,180 @@
+@media (min-width: 768px) and (max-width: 1024px){
+    .logo{
+        width: 100%;
+        padding: 5px;
+        text-align: center;
+    }
+    .logo img{
+        width: 120px;
+        height: 100px;
+    }
+    .poster{
+        width: 400px;
+        margin: 10px auto;
+        padding: 5px;
+    }
+    .poster .images{
+        width: 100%;
+        height: 400px;
+    }
+
+    .link_download,
+    .link_social{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 30px auto;
+    }
+    .link_download .android,
+    .link_download .ios,
+    .link_social .facebook_page,
+    .link_social .telegram{
+        padding: 5px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .link_download .android img,
+    .link_download .ios img{
+        width: 280px;
+        height: 65px;
+    }
+    .link_social .facebook_page img,
+    .link_social .telegram img{
+        width: 280px;
+        height: 60px;
+    }
+
+    .link_website{
+        width: 280px;
+        margin: auto;
+        padding: 5px;
+    }
+    .link_website .images{
+        width: 100%;
+        height: 47px;
+        margin: auto;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px){
+    .logo{
+        width: 100%;
+        padding: 5px;
+        text-align: center;
+    }
+    .logo img{
+        width: 120px;
+        height: 100px;
+    }
+    .poster{
+        width: 100%;
+        margin: 10px auto;
+        padding: 5px;
+    }
+    .poster .images{
+        width: 100%;
+        height: 100%;
+    }
+
+    .link_download,
+    .link_social{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 30px auto;
+    }
+    .link_download .android,
+    .link_download .ios,
+    .link_social .facebook_page,
+    .link_social .telegram{
+        padding: 5px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .link_download .android img,
+    .link_download .ios img{
+        width: 100%;
+        height: 100%;
+    }
+    .link_social .facebook_page img,
+    .link_social .telegram img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .link_website{
+        width: 100%;
+        margin: auto;
+        padding: 5px;
+    }
+    .link_website .images{
+        width: 100%;
+        height: 100%;
+        margin: auto;
+    }
+}
+@media (min-width: 320px) and (max-width: 480px){
+    .logo{
+        width: 100%;
+        padding: 5px;
+        text-align: center;
+    }
+    .logo img{
+        width: 120px;
+        height: 100px;
+    }
+    .poster{
+        width: 100%;
+        margin: 10px auto;
+        padding: 5px;
+    }
+    .poster .images{
+        width: 100%;
+        height: 100%;
+    }
+
+    .link_download,
+    .link_social{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 30px auto;
+    }
+    .link_download .android,
+    .link_download .ios,
+    .link_social .facebook_page,
+    .link_social .telegram{
+        padding: 5px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .link_download .android img,
+    .link_download .ios img{
+        width: 100%;
+        height: 100%;
+    }
+    .link_social .facebook_page img,
+    .link_social .telegram img{
+        width: 100%;
+        height: 100%;
+    }
+
+    .link_website{
+        width: 100%;
+        margin: auto;
+        padding: 5px;
+    }
+    .link_website .images{
+        width: 100%;
+        height: 100%;
+        margin: auto;
+    }
+}
